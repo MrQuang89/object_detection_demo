@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>uav147.jpg</filename>
+	<path>/home/santhui/PythonProject/My_Project/duplicate_images_remove/dataset/uav/uav/images/uav147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uav147</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>27</ymin>
+			<xmax>434</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

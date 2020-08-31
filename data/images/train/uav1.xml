@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>images</folder>
 	<filename>uav1.jpg</filename>
-	<path>/home/santhui/PythonProject/GitLab/file sua/data/images/train/uav1.jpg</path>
+	<path>/home/santhui/PythonProject/My_Project/duplicate_images_remove/dataset/uav/uav/images/uav1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>uav</name>
+		<name>uav1</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>136</xmin>
-			<ymin>148</ymin>
-			<xmax>327</xmax>
-			<ymax>284</ymax>
+			<xmin>131</xmin>
+			<ymin>146</ymin>
+			<xmax>331</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>
