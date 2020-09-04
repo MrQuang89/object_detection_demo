@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>drone288.jpg</filename>
+	<path>/home/santhui/PythonProject/My_Project/DATASET/data/drone288.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>141</ymin>
+			<xmax>391</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
