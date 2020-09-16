@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drone_data_to_5199</folder>
+	<filename>drone3844.jpg</filename>
+	<path>/home/santhui/PythonProject/My_Project/DATASET/synthetic_data/drone_data_to_5199/drone3844.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>527</ymin>
+			<xmax>76</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

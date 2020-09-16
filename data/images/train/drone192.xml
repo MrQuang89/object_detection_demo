@@ -1,7 +1,7 @@
 <annotation>
-	<folder>data</folder>
+	<folder>drone</folder>
 	<filename>drone192.jpg</filename>
-	<path>/home/santhui/PythonProject/My_Project/DATASET/data/drone192.jpg</path>
+	<path>/home/santhui/PythonProject/My_Project/duplicate_images_remove/dataset/drone/drone192.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>264</xmin>
-			<ymin>164</ymin>
-			<xmax>368</xmax>
-			<ymax>239</ymax>
+			<xmin>340</xmin>
+			<ymin>234</ymin>
+			<xmax>382</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 </annotation>

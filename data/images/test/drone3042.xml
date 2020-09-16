@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>drone3042.jpg</filename>
+	<path>/home/santhui/PythonProject/My_Project/duplicate_images_remove/dataset/output/drone3042.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>438</ymin>
+			<xmax>399</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>
