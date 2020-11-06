@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>5384.jpg</filename>
+	<path>5384.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>38</ymin>
+                        <xmax>264</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
